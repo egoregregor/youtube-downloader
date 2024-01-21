@@ -1,0 +1,25 @@
+QWidget {
+        background-color: #333333;
+        color: #FFFFFF;
+    }
+
+    QListWidgetItem:hover {
+        background-color: #0000FF;
+        color: #FFFFFF;
+    }
+
+    QLabel {
+        color: #FFFFFF;
+    }
+
+    QLineEdit {
+        background-color: #666666;
+        color: #FFFFFF;
+        border: 1px solid #555555;
+    }
+
+    QPushButton {
+        background-color: #555555;
+        color: #FFFFFF;
+        border: 1px solid #444444;
+    }
